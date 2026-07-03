@@ -1,0 +1,6 @@
+{
+  "name": "Tactical Card Chess",
+  "description": "A competitive chess game where players draw and play random rarity ability cards alongside normal chess rules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
